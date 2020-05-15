@@ -1,0 +1,3 @@
+{
+  "ignore": [".test.[tj]s", "node_modules/**/node_modules", "*.json"]
+}
